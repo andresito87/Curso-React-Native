@@ -1,21 +1,24 @@
 # 📱 Curso de React Native
 
-Este repositorio contiene los ejemplos y ejercicios realizados durante el curso de **React Native**, usando `Expo`, `React Navigation`, `styled-components`, y más herramientas del ecosistema.
+Este repositorio contiene los ejemplos y ejercicios realizados durante el curso de **React Native**, usando `Expo`, y más herramientas del ecosistema.
 
 ## Tecnologías usadas
 
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.dev/)
 - [React Navigation](https://reactnavigation.org/)
-- [Styled-Components](https://styled-components.com/)
-- [TypeScript](https://www.typescriptlang.org/) (opcional, según la sección del curso)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## Cómo ejecutar el proyecto
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/curso-react-native.git
-   cd curso-react-native
+   git clone https://github.com/andresito87/Curso-React-Native.git
+   cd Curso-React-Native
+   cd <nombre-del-ejemplo>
+   npm install
+   npm start
+   Selecciona la opción de abrir en Expo Go o en un emulador.
    ```
 
 ## Recursos adicionales del curso
